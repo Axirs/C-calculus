@@ -1,4 +1,5 @@
 #include <stdio.h>
+// I'll add more function
 
 float power(float base, float exp);
 float derivative(float num, float expo);
