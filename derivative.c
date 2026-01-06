@@ -7,7 +7,6 @@ int main(void)
 {
     float base_1;
     float exp_1;
-    char x = x;
    
     printf("What's the base?\n");
     scanf("%f", &base_1);
